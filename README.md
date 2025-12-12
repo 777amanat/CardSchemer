@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Terminal Tool](https://img.shields.io/badge/CLI-Tool-orange)
 
-A powerful, colorful, emoji‑friendly card validator that checks **Luhn validity** and fetches **BIN metadata** instantly.
+A simple card validator that checks **Luhn validity** and fetches **BIN metadata** instantly.
 
 ## 🚀 Features
 - 💳 Luhn Algorithm check  
