@@ -8,11 +8,8 @@
 A powerful, colorful, emoji‑friendly card validator that checks **Luhn validity** and fetches **BIN metadata** instantly.
 
 ## 🚀 Features
-- 🔥 Huge colorful ASCII banner  
 - 💳 Luhn Algorithm check  
 - 🌍 BIN Lookup (brand, bank, country, etc.)  
-- 😀 Emoji‑enhanced terminal output  
-- 🧩 Clean human‑styled code  
 
 ## 📦 Install
 ```
