@@ -7,6 +7,9 @@
 
 A simple card validator that checks **Luhn validity** and fetches **BIN metadata** instantly.
 
+Web Version:
+https://id-preview--9c14e6f1-3c72-498d-9087-baf26ac3c8fc.lovable.app
+
 ## 🚀 Features
 - 💳 Luhn Algorithm check  
 - 🌍 BIN Lookup (brand, bank, country, etc.)  
