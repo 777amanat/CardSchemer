@@ -1,2 +1,41 @@
-# CardSchemer
-Checks if a card number is real, then digs up its BIN details in seconds. Feels like having a knowledgeable assistant who tells you exactly what a card is, where it came from, and whether it's being truthful.
+
+# Card Schemer V1.0
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Terminal Tool](https://img.shields.io/badge/CLI-Tool-orange)
+
+A powerful, colorful, emoji‑friendly card validator that checks **Luhn validity** and fetches **BIN metadata** instantly.
+
+## 🚀 Features
+- 🔥 Huge colorful ASCII banner  
+- 💳 Luhn Algorithm check  
+- 🌍 BIN Lookup (brand, bank, country, etc.)  
+- 😀 Emoji‑enhanced terminal output  
+- 🧩 Clean human‑styled code  
+
+## 📦 Install
+```
+pip install -r requirements.txt
+```
+
+## ▶️ Run
+Interactive:
+```
+python card_schemer.py
+```
+
+One‑shot:
+```
+python card_schemer.py 4111111111111111
+```
+
+## 📌 Notes
+- BIN API used: `https://api.juspay.in/cardbins/{bin}`
+- Replace with your preferred provider if needed.
+
+## 👑 Developer
+**777AMANAT**
+
+## 📄 License
+MIT
